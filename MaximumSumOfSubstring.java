@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Main {
     public static int maxSum(int []arr, int k){
         int WindowSum=0;
