@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class Main {
     static int capacity = 5;
     static int[] queue = new int[capacity];
